@@ -1,0 +1,15 @@
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\bin\Debug\11pr.exe.config
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\bin\Debug\11pr.exe
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\bin\Debug\11pr.pdb
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr.csproj.AssemblyReference.cache
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\MainWindow.g.cs
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\App.g.cs
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr_MarkupCompile.cache
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr_MarkupCompile.lref
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\MainWindow.baml
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr.g.resources
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\_11pr.Properties.Resources.resources
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr.csproj.GenerateResource.cache
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr.csproj.CoreCompileInputs.cache
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr.exe
+C:\Users\students.TEACH\Desktop\11пр\11pr\11pr\obj\Debug\11pr.pdb
