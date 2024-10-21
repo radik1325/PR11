@@ -45,8 +45,8 @@ namespace _11pr
 
             for (int i = 1; i <= months; i++)
             {
-                double interestPayment = loanAmount * monthlyRate;
-                double principalPayment = monthlyPayment - interestPayment;
+                double interestPayment = Math.Round(loanAmount * monthlyRate,2);
+                double principalPayment = Math.Round(monthlyPayment - interestPayment,2);
 
                 totalInterest += interestPayment;
                 totalPrincipal += principalPayment;
@@ -56,7 +56,7 @@ namespace _11pr
                     Month = i,
                     PrincipalPayment = principalPayment,
                     InterestPayment = interestPayment,
-                    TotalPayment = monthlyPayment
+                    TotalPayment = Math.Round(monthlyPayment,2)
                 });
 
                 loanAmount -= principalPayment;
